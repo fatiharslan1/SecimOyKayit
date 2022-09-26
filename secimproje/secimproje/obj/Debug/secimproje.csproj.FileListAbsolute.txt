@@ -1,0 +1,12 @@
+C:\Users\fatih\source\repos\secimproje\secimproje\bin\Debug\secimproje.exe.config
+C:\Users\fatih\source\repos\secimproje\secimproje\bin\Debug\secimproje.exe
+C:\Users\fatih\source\repos\secimproje\secimproje\bin\Debug\secimproje.pdb
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.Form1.resources
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.frmgrafikler.resources
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.Properties.Resources.resources
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.csproj.GenerateResource.cache
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.exe
+C:\Users\fatih\source\repos\secimproje\secimproje\obj\Debug\secimproje.pdb
